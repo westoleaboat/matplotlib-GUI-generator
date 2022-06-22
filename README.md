@@ -7,7 +7,7 @@ A Tkinter GUI in where your Pandas DataFrame graphs are plotted
 ```
 cd project-folder/
 git clone https://github.com/westoleaboat/matplotlib-GUI-generator.git
-cd matplotlib-GUI-generator
+cd matplotlib-GUI-generator/
 python3 -m venv env_name
 ```
 2. Install dependencies with pip
