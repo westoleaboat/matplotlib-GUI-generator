@@ -1,5 +1,5 @@
 ======================================
- ABQ Data Entry Program specification
+ Matplotlib GUI Plot specification
 ======================================
 
 Description
